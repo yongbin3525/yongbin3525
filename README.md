@@ -32,7 +32,6 @@
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&flat&logo=Slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&flat&logo=Jira&logoColor=white)
-![Redmine](https://img.shields.io/badge/Redmine-EE0000.svg?&flat&logo=Redmine&logoColor=white)
 
 ### Tool
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&flat&logo=Intellij%20IDEA&logoColor=white)
