@@ -6,6 +6,7 @@
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&flat&logo=Spring%20Boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?&flat&logo=JPA&logoColor=white)
 
 ![Junit5](https://img.shields.io/badge/JUnit5-25A162.svg?&flat&logo=JUnit5&logoColor=white)
 
@@ -49,17 +50,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&flat&logo=MongoDB&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&flat&logo=Jupyter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&flat&logo=Django&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&flat&logo=Jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&flat&logo=Docker&logoColor=white)
 
 ### Will Study
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&flat&logo=Vue.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&flat&logo=FastAPI&logoColor=white)
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&flat&logo=Jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&flat&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&flat&logo=Kubernetes&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-535D6C.svg?&flat&logo=Amazon%20AWS&logoColor=white)
 
-![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?&flat&logo=JPA&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&flat&logo=Spring%20Security&logoColor=white)
 
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
