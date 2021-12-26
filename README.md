@@ -55,7 +55,6 @@
 
 ### Will Study
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&flat&logo=Vue.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&flat&logo=FastAPI&logoColor=white)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&flat&logo=Kubernetes&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-535D6C.svg?&flat&logo=Amazon%20AWS&logoColor=white)
