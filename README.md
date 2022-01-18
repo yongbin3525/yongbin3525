@@ -64,51 +64,10 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bin3525)](https://solved.ac/bin3525)
 
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-835%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    155 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
-🌆 Daytime    464 commits    ████████████░░░░░░░░░░░░░   49.63% 
-🌃 Evening    297 commits    ████████░░░░░░░░░░░░░░░░░   31.76% 
-🌙 Night      19 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     24 repos            █████████████████░░░░░░░░   68.57% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-
- Last Updated on 18/01/2022
-<!--END_SECTION:waka--> 
 
 
 <div align=center>
