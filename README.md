@@ -65,16 +65,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bin3525)](https://solved.ac/bin3525)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-713%20hrs%2052%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Daytime    465 commits    ███████████░░░░░░░░░░░░░░   47.45% 
-🌃 Evening    325 commits    ████████░░░░░░░░░░░░░░░░░   33.16% 
+🌞 Morning    123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+🌆 Daytime    467 commits    ████████████░░░░░░░░░░░░░   47.65% 
+🌃 Evening    324 commits    ████████░░░░░░░░░░░░░░░░░   33.06% 
 🌙 Night      66 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73%
 
 ```
@@ -111,7 +109,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 23/02/2022 01:05:20 UTC
+ Last Updated on 24/02/2022 01:02:29 UTC
 <!--END_SECTION:waka-->
 <div align=center>
 
