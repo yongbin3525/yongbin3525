@@ -68,7 +68,7 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
@@ -89,17 +89,17 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     11 hrs 2 mins       ███████████████████░░░░░░   77.84% 
-XML                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
-CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+Java                     11 hrs 30 mins      ███████████████████░░░░░░   79.27% 
+XML                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+SQL                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.44% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🔥 Editors: 
-IntelliJ                 14 hrs 11 mins      █████████████████████████   100.0%
+IntelliJ                 14 hrs 30 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 11 mins      █████████████████████████   100.0%
+Mac                      14 hrs 30 mins      █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 14/03/2022 01:06:26 UTC
+ Last Updated on 15/03/2022 01:07:21 UTC
 <!--END_SECTION:waka-->
 
 <div align=center>
