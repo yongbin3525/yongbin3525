@@ -117,6 +117,8 @@ HTML                     6 repos             ████░░░░░░░�
  Last Updated on 26/03/2022 01:05:21 UTC
 <!--END_SECTION:waka-->
 
+<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">
+
 <div align=center>
 
 ![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyongbin3525&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
