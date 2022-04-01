@@ -68,16 +68,16 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%2044%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-842%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-🌆 Daytime    518 commits    ████████████░░░░░░░░░░░░░   50.05% 
-🌃 Evening    335 commits    ████████░░░░░░░░░░░░░░░░░   32.37% 
+🌞 Morning    129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
+🌆 Daytime    516 commits    ████████████░░░░░░░░░░░░░   49.86% 
+🌃 Evening    333 commits    ████████░░░░░░░░░░░░░░░░░   32.17% 
 🌙 Night      57 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
 
 ```
@@ -89,17 +89,17 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     9 hrs 44 mins       ███████████████░░░░░░░░░░   61.82% 
-XML                      2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-SQL                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
-CSV/TSV                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
+Java                     9 hrs 22 mins       ████████████████░░░░░░░░░   66.4% 
+XML                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+SQL                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
+JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
+CSV/TSV                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84%
 
 🔥 Editors: 
-IntelliJ                 15 hrs 45 mins      █████████████████████████   100.0%
+IntelliJ                 14 hrs 6 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      15 hrs 45 mins      █████████████████████████   100.0%
+Mac                      14 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 31/03/2022 01:10:11 UTC
+ Last Updated on 01/04/2022 01:20:24 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
