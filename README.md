@@ -68,16 +68,16 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%2051%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-842%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-🌆 Daytime    509 commits    ████████████░░░░░░░░░░░░░   47.66% 
-🌃 Evening    347 commits    ████████░░░░░░░░░░░░░░░░░   32.49% 
+🌞 Morning    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+🌆 Daytime    507 commits    ███████████░░░░░░░░░░░░░░   47.43% 
+🌃 Evening    350 commits    ████████░░░░░░░░░░░░░░░░░   32.74% 
 🌙 Night      67 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27%
 
 ```
@@ -89,17 +89,17 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     8 hrs 2 mins        ████████████████░░░░░░░░░   63.99% 
-SQL                      2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   23.23% 
-XML                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
-Properties               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
-CLASS                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+Java                     6 hrs 30 mins       ██████████████░░░░░░░░░░░   56.1% 
+SQL                      3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.08% 
+XML                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
+textmate                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
+Groovy                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
 
 🔥 Editors: 
-IntelliJ                 12 hrs 34 mins      █████████████████████████   100.0%
+IntelliJ                 11 hrs 35 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      12 hrs 34 mins      █████████████████████████   100.0%
+Mac                      11 hrs 35 mins      █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 27/04/2022 01:28:02 UTC
+ Last Updated on 28/04/2022 01:57:10 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
