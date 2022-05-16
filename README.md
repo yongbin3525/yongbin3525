@@ -68,16 +68,16 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
+🌞 Morning    150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
 🌆 Daytime    490 commits    ███████████░░░░░░░░░░░░░░   46.8% 
-🌃 Evening    332 commits    ████████░░░░░░░░░░░░░░░░░   31.71% 
+🌃 Evening    331 commits    ████████░░░░░░░░░░░░░░░░░   31.61% 
 🌙 Night      76 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.26%
 
 ```
@@ -89,11 +89,11 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     7 hrs 6 mins        ███████████████████░░░░░░   78.29% 
+Java                     7 hrs 6 mins        ███████████████████░░░░░░   78.28% 
 XML                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.37% 
 SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
 Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
 🔥 Editors: 
 IntelliJ                 9 hrs 3 mins        █████████████████████████   99.78% 
@@ -115,7 +115,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 15/05/2022 01:32:31 UTC
+ Last Updated on 16/05/2022 01:17:50 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
