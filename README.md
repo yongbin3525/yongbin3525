@@ -68,7 +68,7 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
@@ -89,17 +89,17 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     4 hrs 53 mins       ███████████████████░░░░░░   78.39% 
-XML                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.12% 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
-SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-CLASS                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
+Java                     2 hrs 59 mins       ███████████████████░░░░░░   75.66% 
+XML                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
+SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.84% 
+CLASS                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 
 🔥 Editors: 
-IntelliJ                 6 hrs 13 mins       █████████████████████████   100.0%
+IntelliJ                 3 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 hrs 13 mins       █████████████████████████   100.0%
+Mac                      3 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 13/06/2022 01:29:19 UTC
+ Last Updated on 14/06/2022 01:29:29 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
