@@ -68,7 +68,7 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
@@ -89,8 +89,8 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     10 mins             █████████████░░░░░░░░░░░░   55.3% 
-Markdown                 8 mins              ███████████░░░░░░░░░░░░░░   44.7%
+Java                     10 mins             █████████████░░░░░░░░░░░░   55.15% 
+Markdown                 8 mins              ███████████░░░░░░░░░░░░░░   44.85%
 
 🔥 Editors: 
 IntelliJ                 19 mins             █████████████████████████   100.0%
@@ -111,7 +111,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 02/07/2022 01:26:41 UTC
+ Last Updated on 03/07/2022 01:27:25 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
