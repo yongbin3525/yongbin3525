@@ -68,15 +68,15 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    169 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-🌆 Daytime    463 commits    ███████████░░░░░░░░░░░░░░   45.13% 
+🌞 Morning    170 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+🌆 Daytime    462 commits    ███████████░░░░░░░░░░░░░░   45.03% 
 🌃 Evening    308 commits    ███████░░░░░░░░░░░░░░░░░░   30.02% 
 🌙 Night      86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.38%
 
@@ -89,14 +89,16 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 8 mins              ████████████████████████░   96.38% 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
+XML                      20 mins             ██████████████░░░░░░░░░░░   56.32% 
+Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   23.22% 
+Java                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.11% 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
 
 🔥 Editors: 
-IntelliJ                 8 mins              █████████████████████████   100.0%
+IntelliJ                 36 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.0%
+Mac                      36 mins             █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +113,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 27/07/2022 01:30:32 UTC
+ Last Updated on 28/07/2022 01:25:08 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
