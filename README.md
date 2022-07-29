@@ -68,7 +68,7 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
@@ -89,16 +89,16 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-XML                      20 mins             ██████████████░░░░░░░░░░░   56.32% 
-Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   23.22% 
-Java                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.11% 
-CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+XML                      23 mins             █████████░░░░░░░░░░░░░░░░   38.65% 
+Markdown                 19 mins             ████████░░░░░░░░░░░░░░░░░   32.79% 
+Java                     17 mins             ███████░░░░░░░░░░░░░░░░░░   28.34% 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🔥 Editors: 
-IntelliJ                 36 mins             █████████████████████████   100.0%
+IntelliJ                 1 hr                █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.0%
+Mac                      1 hr                █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 28/07/2022 01:25:08 UTC
+ Last Updated on 29/07/2022 01:29:19 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
