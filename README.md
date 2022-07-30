@@ -68,16 +68,16 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    170 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+🌞 Morning    171 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 🌆 Daytime    462 commits    ███████████░░░░░░░░░░░░░░   45.03% 
-🌃 Evening    308 commits    ███████░░░░░░░░░░░░░░░░░░   30.02% 
+🌃 Evening    307 commits    ███████░░░░░░░░░░░░░░░░░░   29.92% 
 🌙 Night      86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.38%
 
 ```
@@ -89,16 +89,16 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-XML                      23 mins             █████████░░░░░░░░░░░░░░░░   38.65% 
-Markdown                 19 mins             ████████░░░░░░░░░░░░░░░░░   32.79% 
-Java                     17 mins             ███████░░░░░░░░░░░░░░░░░░   28.34% 
-CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+XML                      23 mins             █████████░░░░░░░░░░░░░░░░   36.32% 
+Java                     21 mins             ████████░░░░░░░░░░░░░░░░░   32.82% 
+Markdown                 19 mins             ███████░░░░░░░░░░░░░░░░░░   30.66% 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-IntelliJ                 1 hr                █████████████████████████   100.0%
+IntelliJ                 1 hr 4 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.0%
+Mac                      1 hr 4 mins         █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 29/07/2022 01:29:19 UTC
+ Last Updated on 30/07/2022 01:24:52 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
