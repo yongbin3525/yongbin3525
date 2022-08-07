@@ -68,17 +68,17 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    171 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-🌆 Daytime    462 commits    ███████████░░░░░░░░░░░░░░   45.03% 
+🌞 Morning    170 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+🌆 Daytime    460 commits    ███████████░░░░░░░░░░░░░░   44.83% 
 🌃 Evening    307 commits    ███████░░░░░░░░░░░░░░░░░░   29.92% 
-🌙 Night      86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.38%
+🌙 Night      89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67%
 
 ```
 
@@ -89,16 +89,14 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-XML                      23 mins             █████████░░░░░░░░░░░░░░░░   38.58% 
-Java                     21 mins             ████████░░░░░░░░░░░░░░░░░   34.87% 
-Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   26.34% 
-CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+Markdown                 1 min               █████████████████████████   100.0% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-IntelliJ                 1 hr                █████████████████████████   100.0%
+IntelliJ                 1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.0%
+Mac                      1 min               █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +111,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 02/08/2022 01:55:16 UTC
+ Last Updated on 07/08/2022 01:31:08 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
