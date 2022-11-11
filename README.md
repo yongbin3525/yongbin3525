@@ -72,6 +72,33 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    163 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+🌆 Daytime    374 commits    ██████████░░░░░░░░░░░░░░░   40.87% 
+🌃 Evening    287 commits    ███████░░░░░░░░░░░░░░░░░░   31.37% 
+🌙 Night      91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.95%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -83,7 +110,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 10/11/2022 01:27:45 UTC
+ Last Updated on 11/11/2022 01:28:20 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
