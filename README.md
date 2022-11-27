@@ -68,17 +68,17 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    163 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.04% 
-🌆 Daytime    367 commits    ██████████░░░░░░░░░░░░░░░   42.87% 
-🌃 Evening    235 commits    ██████░░░░░░░░░░░░░░░░░░░   27.45% 
-🌙 Night      91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.63%
+🌞 Morning    163 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.18% 
+🌆 Daytime    367 commits    ██████████░░░░░░░░░░░░░░░   43.18% 
+🌃 Evening    229 commits    ██████░░░░░░░░░░░░░░░░░░░   26.94% 
+🌙 Night      91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
 
 ```
 
@@ -89,14 +89,13 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-CLASS                    0 secs              ██████████████████████░░░   90.99% 
-Java                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
+Java                     13 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.0%
+IntelliJ                 13 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+Mac                      13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +110,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 26/11/2022 01:10:29 UTC
+ Last Updated on 27/11/2022 01:19:23 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
