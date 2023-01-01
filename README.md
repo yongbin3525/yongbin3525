@@ -68,17 +68,17 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    136 commits    █████░░░░░░░░░░░░░░░░░░░░   19.8% 
+🌞 Morning    135 commits    █████░░░░░░░░░░░░░░░░░░░░   19.65% 
 🌆 Daytime    271 commits    █████████░░░░░░░░░░░░░░░░   39.45% 
-🌃 Evening    189 commits    ███████░░░░░░░░░░░░░░░░░░   27.51% 
-🌙 Night      91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25%
+🌃 Evening    191 commits    ███████░░░░░░░░░░░░░░░░░░   27.8% 
+🌙 Night      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1%
 
 ```
 
@@ -89,13 +89,14 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 42 mins             █████████████████████████   99.79% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 42 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      42 mins             █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +111,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 01:09:13 UTC
+ Last Updated on 01/01/2023 01:17:38 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
