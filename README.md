@@ -89,13 +89,14 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████████░░░░   83.64% 
+XML                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.36%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +111,7 @@ HTML                     6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 08/01/2023 01:15:15 UTC
+ Last Updated on 09/01/2023 01:10:10 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
