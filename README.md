@@ -70,23 +70,22 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2047%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning      225 commits       ████░░░░░░░░░░░░░░░░░░░░░   19.13 % 
-🌆 Daytime      541 commits       ███████████░░░░░░░░░░░░░░   46.00 % 
-🌃 Evening      318 commits       ██████░░░░░░░░░░░░░░░░░░░   27.04 % 
-🌙 Night         92 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-
+🌞 Morning                225 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+🌆 Daytime                541 commits         ████████████░░░░░░░░░░░░░   46.00 % 
+🌃 Evening                318 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+🌙 Night                  92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Seoul
+🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -96,7 +95,6 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in Java** 
@@ -105,12 +103,12 @@ No Activity Tracked This Week
 Java                     26 repos            █████████████████░░░░░░░░   68.42 % 
 HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-
 ```
 
 
 
- Last Updated on 22/02/2023 01:06:00 UTC
+
+ Last Updated on 23/02/2023 01:04:50 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
