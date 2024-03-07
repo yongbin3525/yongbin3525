@@ -68,7 +68,7 @@
 [![Yongbin Lee Github Stats](https://github-readme-stats.vercel.app/api?username=yongbin3525&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -88,14 +88,14 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     12 mins             █████████████████████████   99.99 % 
+Java                     16 mins             █████████████████████████   99.99 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ                 12 mins             █████████████████████████   100.00 % 
+IntelliJ                 16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,7 +109,7 @@ JavaScript               6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 06/03/2024 00:53:17 UTC
+ Last Updated on 07/03/2024 00:43:23 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
