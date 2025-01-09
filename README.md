@@ -88,14 +88,13 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     0 secs              ██████████████████░░░░░░░   72.75 % 
-XML                      0 secs              ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -109,7 +108,7 @@ JavaScript               6 repos             ████░░░░░░░�
 
 
 
- Last Updated on 08/01/2025 01:12:03 UTC
+ Last Updated on 09/01/2025 01:11:09 UTC
 <!--END_SECTION:waka-->
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=yongbin3525&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0">-->
